@@ -1,4 +1,4 @@
-# OLÁ MUNDO! EU SOU VICTOR HUGO!
+# OLÁ MUNDO! EU SOU VICTOR HUGO! ![FOTO_DE_PERFIL](../perfil.png)
 Sou de Manaus - AM, tenho 25 anos de idade e comecei meus estudos com
 programação em 2019 quando cursava Ciências da Computação, hoje em dia
 faço o curso de Análise e Desenvolvimento de Sistemas na Uninorte, estou
@@ -17,3 +17,17 @@ minha guitarra e ler quadrinhos e livros.
     * Utilizando pela primeira vez o OS Linux/Ubuntu, tive certa dificuldade de me familiarizar com o OS, perdi algumas horas de estudo tentando resolver erros com o MySQL e com permissões do sudo no usuário.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+```def sucess(dedication, persistence, passion):
+    dedication += 1 # Dedique-se
+    persistence += 1 # Seja persistente
+    passion = TRUE # Tenha paixão
+
+
+    if passion == TRUE:
+        magic = dedication + persistence
+        return magic
+
+    else: 
+        magic = 0
+        return magic = 0 ```
