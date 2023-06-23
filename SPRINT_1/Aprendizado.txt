@@ -1,0 +1,10 @@
+Durante a Sprint 1, tive a oportunidade de aprender noções básicas e essenciais sobre o git e o OS linux,
+o conteúdo dos cursos é bem estruturado e fácil de 'digerir', não tive muitas dificuldades com os assuntos
+abordados, entretanto, as poucas que eu tive normalmente se encontravam mais na hora de instalar algum programa.
+
+No caso do Linux, alguns comandos que estavam no curso estavam desatualizados, tive certa dificuldade para conectar
+o MySQL, demorei algumas horas pesquisando a solução do problema na internet o que me custou um pouco do aprendizado, 
+felizmente estava bem avançado, logo, não tive prejuízos.
+
+Algo que me ajuda bastante no aprendizado é que eu anoto num arquivo .txt os comandos utilizados durante o curso junto com 
+sua explicação ao lado, é uma forma que encontrei de não esquecer facilmente os comandos menos frequentes.
