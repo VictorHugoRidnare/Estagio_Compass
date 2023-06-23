@@ -1,4 +1,4 @@
-# OLÁ MUNDO! EU SOU VICTOR HUGO! ![FOTO_DE_PERFIL](../perfil.png)
+# OLÁ MUNDO! EU SOU VICTOR HUGO! ![Minha foto](./imgs/perfil.png)
 Sou de Manaus - AM, tenho 25 anos de idade e comecei meus estudos com
 programação em 2019 quando cursava Ciências da Computação, hoje em dia
 faço o curso de Análise e Desenvolvimento de Sistemas na Uninorte, estou
