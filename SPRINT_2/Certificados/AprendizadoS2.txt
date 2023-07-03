@@ -1,0 +1,8 @@
+Na primeira semana da Sprint 2, iniciei os estudos em SQL. Já conhecia a linguagem e sabia de algumas coisas bem básicas como a interação
+das tabelas, como são criadas e alguns conceitos, mas nunca tinha feito nada com as queries, foi e ainda está sendo um desafio de absorver
+todo o conteúdo abordado, estou bastante interessado nessa parte pois gostei da forma que as queries são feitas, me lembrou os primeiros
+exercícios de lógica que fazia quando estava aprendendo a programar. 
+
+Estou com uma certa dificuldade de entender como funciona uma parte da estrutura da query em alguns exercícios da Sprint de Data & Analytics,
+estou revisando as aulas pra entender melhor tudo. O curso em si é bom e muito bem explicado mas creio que minha dificuldade é na parte de lógica,
+não estou visualizando direito como montar as queries ainda.
