@@ -6,3 +6,12 @@ exercícios de lógica que fazia quando estava aprendendo a programar.
 Estou com uma certa dificuldade de entender como funciona uma parte da estrutura da query em alguns exercícios da Sprint de Data & Analytics,
 estou revisando as aulas pra entender melhor tudo. O curso em si é bom e muito bem explicado mas creio que minha dificuldade é na parte de lógica,
 não estou visualizando direito como montar as queries ainda.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Semana 2 - Curso de Big Data Fundamentos 3.0
+
+Sobre o curso de Big Data eu não tive dificuldade pelo fato do curso ser todo teórico, entretanto, o que posso dizer é que achei o conteúdo interessantíssimo
+porém creio que 1 semana para absorver todo assunto abordade tenha sido um pouco apertado, não conhecia nada sobre o tema e ter que aprender tantos termos
+e conceitos foi um pouco exaustivo em alguns momentos, consegui a aprovação para tirar o certificado com 76% de aproveitamento na primeira tentativa das 3
+disponíveis.
