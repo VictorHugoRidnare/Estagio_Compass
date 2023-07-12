@@ -1,0 +1,5 @@
+nome = input('Qual seu nome?')
+idade = input('Qual sua idade?')
+idade = int(idade)
+cemAnos = 100 + (2023 - idade)
+print(cemAnos)
