@@ -1,0 +1,4 @@
+Este conteúdo está em\n 
+um\n 
+arquivo\n 
+de texto.\n
