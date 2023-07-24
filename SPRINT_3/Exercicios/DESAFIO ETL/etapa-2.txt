@@ -1,0 +1,51 @@
+FATURAMENTO MÉDIO POR ATOR: 
+Harrison Ford U$118.80
+Samuel L. Jackson U$69.20
+Morgan Freeman U$73.30
+Tom Hanks U$98.70
+Robert Downey Jr. U$74.50
+Eddie Murphy U$100.30
+Tom Cruise U$99.60
+Johnny Depp U$74.90
+Michael Caine U$57.80
+Scarlett Johansson U$90.30
+Gary Oldman U$86.70
+Robin Williams U$66.90
+Bruce Willis U$53.20
+Stellan Skarsgard U$73.80
+Anthony Daniels U$451.80
+Ian McKellen U$101.60
+Will Smith U$131.20
+Stanley Tucci U$62.50
+Matt Damon U$79.70
+Robert DeNiro U$39.00
+Cameron Diaz U$89.20
+Liam Neeson U$46.70
+Andy Serkis U$125.70
+Don Cheadle U$84.90
+Ben Stiller U$76.40
+Helena Bonham Carter U$78.40
+Orlando Bloom U$165.60
+Woody Harrelson U$56.30
+Cate Blanchett U$71.90
+Julia Roberts U$65.10
+Elizabeth Banks U$77.90
+Ralph Fiennes U$75.40
+Emma Watson U$157.80
+Tommy Lee Jones U$58.30
+Brad Pitt U$67.00
+Adam Sandler U$83.20
+Daniel Radcliffe U$155.00
+Jonah Hill U$89.80
+Owen Wilson U$66.70
+Idris Elba U$99.30
+Bradley Cooper U$102.30
+Mark Wahlberg U$70.80
+Jim Carrey U$94.30
+Dustin Hoffman U$58.70
+Leonardo DiCaprio U$100.70
+Jeremy Renner U$119.10
+Philip Seymour Hoffman U$61.60
+Sandra Bullock U$70.40
+Chris Evans U$106.90
+Anne Hathaway U$96.70

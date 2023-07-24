@@ -1,0 +1,2 @@
+O ator com maior média de faturamento por filme é Anthony Daniels
+Média de faturamento do ator por filme: U$ 451.80
