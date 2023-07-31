@@ -1,0 +1,12 @@
+Filmes mais frequentes e suas respectivas quantidades:
+The Avengers: 6 vezes
+Catching Fire: 4 vezes
+Harry Potter / Deathly Hallows (P2): 4 vezes
+Star Wars: The Force Awakens: 3 vezes
+The Dark Knight: 3 vezes
+Meet the Fockers: 3 vezes
+Shrek 2: 2 vezes
+Dead Man's Chest: 2 vezes
+Night at the Museum: 2 vezes
+Return of the King: 2 vezes
+Avengers: Age of Ultron: 2 vezes

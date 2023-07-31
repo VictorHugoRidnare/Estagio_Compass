@@ -50,10 +50,38 @@ def ator_com_maior_faturamento_medio(faturamendo_medio_por_ator):
             maior_faturamento_medio = faturamento_medio
             ator_maior_faturamento = ator
 
-    return ator_maior_faturamento, maior_faturamento_medio        
+    return ator_maior_faturamento, maior_faturamento_medio
+
+def contar_filmes_mais_frequentes(nome_do_arquivo):
+    with open(nome_do_arquivo, 'r') as arquivo:
+        linhas = arquivo.readlines()[1:] 
+
+    filmes_frequencia = {}
+    for linha in linhas:
+        filme_data = linha.strip().split(',')
+        filme_nome = filme_data[4]  
+
+        if filme_nome in filmes_frequencia:
+            filmes_frequencia[filme_nome] += 1
+        else:
+            filmes_frequencia[filme_nome] = 1
+
+    filmes_mais_frequentes = {filme: frequencia for filme, frequencia in filmes_frequencia.items() if frequencia > 1}
+    filmes_mais_frequentes = dict(sorted(filmes_mais_frequentes.items(), key=lambda item: item[1], reverse=True))
+
+    return filmes_mais_frequentes
 
 nome_do_arquivo = "actors.csv"
 ator, contagem_filmes = ator_com_mais_filmes(nome_do_arquivo)
+filmes_mais_frequentes = contar_filmes_mais_frequentes(nome_do_arquivo)
+
+if not filmes_mais_frequentes:
+    print("Não há filmes repetidos.")
+else:
+    print("Filmes mais frequentes e suas respectivas quantidades:")
+    for filme, frequencia in filmes_mais_frequentes.items():
+        print(f"{filme}: {frequencia} vezes")        
+
 
 print(f'O ator com mais filmes é: {ator}')
 print(f'Número de filmes: {contagem_filmes}')
