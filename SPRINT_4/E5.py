@@ -8,7 +8,6 @@ def funcao_media(notas):
     
 with open("estudantes.csv", "r") as file:
     conteudo = csv.reader(file)
-    next(reader)
     for i in conteudo:
         nome = i[0]
         notas = list(map(int, i[1,6]))
