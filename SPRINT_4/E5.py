@@ -13,3 +13,4 @@ with open("estudantes.csv", "r") as file:
         notas = list(map(int, i[1,6]))
         media = funcao_media(notas)
         print(f"Nome: {nome} Notas: {notas} Média: {media}")
+        
