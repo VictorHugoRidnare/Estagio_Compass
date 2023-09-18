@@ -13,7 +13,7 @@ minha guitarra e ler quadrinhos e livros.
 
 1. **SPRINT 1**
     * Comandos e noções básicas de GIT, tive facilidade de compreender o conteúdo das aulas.
-    * Utilizando pela primeira vez o OS Linux/Ubuntu, tive certa dificuldade de me familiarizar com o OS, perdi algumas horas de estudo tentando resolver erros com o MySQL e com permissões do sudo no usuário.
+    * Utilizando pela primeira vez o OS Linux/Ubuntu, tive certa dificuldade de me familiarizar com o OS, perdi algumas horas de estudo tentando resolver erros com o MySQL e com permissões do sudo no usuário!
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
